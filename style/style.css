@@ -1,7 +1,17 @@
+.text_0 {
+    font-family: 'Lobster', serif;
+}
+
+
 .text_1 {
     font-style: italic;
     position: absolute;
-    top: 20px;
+    top: 30px;
     left: 50px;
     right: 20px;
+    text-indent: 2em;
+    font-family: 'Pacifico', serif;
 }
+
+
+
